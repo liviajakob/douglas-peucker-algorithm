@@ -1,5 +1,5 @@
 # Douglas-Peucker Line Generalisation Algorithm
-Implementing the Douglas-Peucker line generalisation algorithm in python3
+This project implements the Douglas-Peucker line generalisation algorithm in python3.
 
 
 
